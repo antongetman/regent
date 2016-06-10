@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<metadata>
+	<layout title="Галлерея альбомов пользователя">
+		<message>Отображает альбомы пользователя</message>
+    </layout>
+    <fields name="request">
+        <fieldset name="request">
+                        <field
+                                id="group_id"
+                                name="group_id"
+                                type="text"
+                                label="Укажите id группы в контакте"
+                                description="id группы в контакте"
+                                default="group_id"
+                        ></field>
+        </fieldset>
+	</fields>
+</metadata>
